@@ -5,7 +5,7 @@ import javax.swing.*;
     public class Conversao extends JFrame {
         private JComboBox input, output;
         private JTextField infoBlocs[];
-        public Convert() {
+        public Conversao() {
             setTitle("[Converter a temperatura]");
             setSize(250, 250);
             startFunc();
